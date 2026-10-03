@@ -1,0 +1,8 @@
+name: StaffPlugin
+main: io.github.vlouboos.staffplugin.StaffPlugin
+version: 1.0-SNAPSHOT
+commands:
+  ban: {}
+  unban: {}
+  mute: {}
+  unmute: {}
